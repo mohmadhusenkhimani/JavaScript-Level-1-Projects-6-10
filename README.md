@@ -1,34 +1,29 @@
 # 📘 JavaScript Level 1 Projects (6–10)
 
-This repository contains the next five JavaScript projects focused on DOM manipulation, user interaction, and building simple browser-based applications.
+This repository contains the next five JavaScript projects focusing on DOM manipulation, event handling, and interactive browser-based applications.
 
 ---
 
 ## 🚀 Projects Included
 
 ### 6️⃣ Temperature Converter
-
-- Convert between Celsius, Fahrenheit, and Kelvin
-- Practice functions and DOM manipulation
+- Convert Celsius, Fahrenheit, and Kelvin
+- Practice mathematical formulas and DOM updates
 
 ### 7️⃣ Number Guessing Game
-
-- Guess a randomly generated number
-- Practice conditions, loops, and `Math.random()`
+- Random number generation
+- User interaction using JavaScript events
 
 ### 8️⃣ Basic Calculator
-
-- Perform arithmetic calculations
-- Practice event handling and functions
+- Perform arithmetic operations
+- Practice functions and event handling
 
 ### 9️⃣ To-Do List App
-
 - Add and delete tasks
 - Practice arrays and DOM manipulation
 
 ### 🔟 Form Validation
-
-- Validate user inputs
+- Validate user input
 - Practice Regex and real-time validation
 
 ---
@@ -41,7 +36,21 @@ This repository contains the next five JavaScript projects focused on DOM manipu
 
 ---
 
-## 📚 Learning Objectives
+## 📂 Project Structure
+
+```text
+javascript-level-1-projects-6-10/
+│── 6_Temperature_Converter/
+│── 7_Number_Guessing_Game/
+│── 8_Basic_Calculator/
+│── 9_ToDo_List_App/
+│── 10_Form_Validation/
+└── README.md
+```
+
+---
+
+## 📚 Learning Outcomes
 
 - DOM Manipulation
 - Event Handling
@@ -49,13 +58,21 @@ This repository contains the next five JavaScript projects focused on DOM manipu
 - Form Validation
 - Functions
 - Regular Expressions
-- Interactive User Interfaces
+- Interactive UI Development
 
 ---
 
 ## 🎯 Purpose
 
-These projects helped strengthen my JavaScript fundamentals while building interactive web applications.
+These projects helped me strengthen my JavaScript fundamentals while building interactive browser-based applications.
+
+---
+
+## 👨‍💻 Author
+
+**Mohmadhusen Khimani**
+
+MCA Student • Full-Stack MERN Developer • Aspiring Software Development Engineer
 
 ---
 
